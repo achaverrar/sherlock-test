@@ -1,0 +1,19 @@
+{
+  "home": {
+    "images": {
+      "vite": {
+        "alt": "Vite logo"
+      },
+      "react": {
+        "alt": "React logo"
+      }
+    },
+    "buttons": {
+      "counter": {
+        "default": "count is {{count}}"
+      }
+    },
+    "editCodePrompt": "Edit <code>{{path}}</code> and save to test HMR",
+    "clickLinksPrompt": "Click on the Vite and React logos to learn more"
+  }
+}
